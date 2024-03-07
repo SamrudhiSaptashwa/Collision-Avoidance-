@@ -1,4 +1,4 @@
-#Collision Avoidance
+Collision Avoidance
 In this example, we'll collect an image classification dataset that will be used to help keep JetBot safe! We'll teach JetBot to detect two scenarios free and blocked. We'll use this AI classifier to prevent JetBot from entering dangerous territory.
 
 Step 1: Collect data on JetBot
@@ -41,5 +41,5 @@ Step 3. Automatic Obstacle Avoiding
 
 •	[Note] Some statements may take a long time to run. There is a program running promptly in the upper right corner of JupyterLab. When the small dot is black, it means the program is running, and white means it is idle.
 
-#The model training is more then you will get more accuracy
+The model training is more then you will get more accuracy
 
